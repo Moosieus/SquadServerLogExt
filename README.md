@@ -1,4 +1,3 @@
-## I've re-written this project for Nim, and all future updates will be distributed on that version.
 # SquadServerLogExt
 Extracts data from Squad server log files and puts them into a spreadsheet.
 
